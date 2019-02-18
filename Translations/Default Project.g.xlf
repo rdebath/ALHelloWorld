@@ -3,15 +3,40 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Default Project">
     <body>
       <group id="body">
-        <trans-unit id="PageExtension 4080826063 - Action 3111685913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Suggest Vendor Payments</source>
+        <trans-unit id="TableExtension 2065847563 - Field 3834619076 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Evaluation Error</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TVTPayment Journal - Action SuggestVendorPaymentsTVT - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TVTExcel Buffer - Field TVT Evaluation Error - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 4080826063 - Action 3111685913 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Create payment suggestions as lines in the payment journal.</source>
+        <trans-unit id="TableExtension 2065847563 - Field 55998455 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Validation Error</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TVTPayment Journal - Action SuggestVendorPaymentsTVT - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TVTExcel Buffer - Field TVT Validation Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2065847563 - Field 139493417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>String Length Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TVTExcel Buffer - Field TVT String Length Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2065847563 - Field 754500376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Has Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TVTExcel Buffer - Field TVT Has Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2065847563 - Field 1957389291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mandatory Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TVTExcel Buffer - Field TVT Mandatory Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2065847563 - Field 1136819429 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TVTExcel Buffer - Field TVT Error Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2065847563 - Field 4261088285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TVTExcel Buffer - Field TVT Field No. - Property Caption</note>
         </trans-unit>
       </group>
     </body>
