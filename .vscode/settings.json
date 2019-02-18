@@ -1,0 +1,15 @@
+{
+    "al.assemblyProbingPaths": [
+        "./.netpackages",
+        "C:\\Windows\\Microsoft.NET\\assembly",
+        "C:\\Nav\\14.0.25353"
+    ],
+    "al.enableCodeAnalysis": true,
+    //"al.ruleSetPath": "./.vscode/ruleset.json",
+    "al.codeAnalyzers": [
+        "${AppSourceCop}"
+        , "${PerTenantExtensionCop}"
+        //, "${CodeCop}"
+        //, "${UICop}"
+    ]
+}

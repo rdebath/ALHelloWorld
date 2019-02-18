@@ -1,0 +1,25 @@
+{
+  "id": "a6b68759-dd91-47b7-b1b6-a2ac45ec504e",
+  "name": "Default Project",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "features": ["TranslationFile"],
+  "target":"Extension"
+
+}
